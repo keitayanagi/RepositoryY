@@ -1,4 +1,4 @@
-//SampleServlet2
+//SampleServlet2.java
 
 import java.io.IOException;
 
